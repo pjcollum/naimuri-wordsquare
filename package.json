@@ -1,0 +1,14 @@
+{
+  "name": "naimuri-wordsquare",
+  "version": "1.0.0",
+  "description": "Solves word squares from a grid size and a set of letters",
+  "main": "wordsquare.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "type": "commonjs",
+  "devDependencies": {
+    "jest": "^30.5.2"
+  }
+}
